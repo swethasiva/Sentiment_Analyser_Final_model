@@ -31,7 +31,8 @@
   
   ## Running train the models:
   
-  Place the IMDB dataset in the same location as the classifier files. 
+  Place the IMDB dataset in the same location as the classifier files. Click [here](https://drive.google.com/file/d/1DQGcLQ_AfWBFjUGO6dQqpIsyxNhkgAqg/view?usp=sharing) to download the dataset.
+  
    * LSTM Model
     Clone the repository into your local system and run the following command:
     
